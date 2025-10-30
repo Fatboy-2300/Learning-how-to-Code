@@ -15,6 +15,9 @@ public class Mypractice_25 {
 
         System.out.println("force (F) = " + force + "Newtons");
 
+        input.close();
+        
+
 
 
 
